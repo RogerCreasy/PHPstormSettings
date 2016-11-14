@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="818a0b79-d32a-472b-af64-c9d2478d01ba" name="coda assets" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="1c71f6bf-a5c9-41da-8d1d-6e20d3ff9207" name="coda laravel" url="http://coda.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
