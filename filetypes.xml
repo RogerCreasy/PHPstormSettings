@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Bash" type="PLAIN_TEXT" />
+      <mapping pattern="entityTemplate" type="PLAIN_TEXT" />
       <mapping pattern="cron.nightlySync" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="fstab" type="PLAIN_TEXT" />
