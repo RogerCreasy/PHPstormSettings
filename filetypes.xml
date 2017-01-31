@@ -8,6 +8,7 @@
       <mapping pattern="fstab" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern=".keepme" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="interfaceModesto" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
