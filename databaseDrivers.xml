@@ -41,6 +41,12 @@
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <option name="auto-sync" value="false" />
       <property name="prompt" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtopen-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jt400.jar</url>
+      </library>
     </driver>
     <driver id="mysql" name="MySQL" dialect="MySQL">
       <option name="auto-sync" value="true" />
