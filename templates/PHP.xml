@@ -1,0 +1,5 @@
+<templateSet group="PHP">
+  <template name="test" value="/** @test */&#10;function $END$()&#10;{&#10;&#10;}" description="create PHPUnit test function" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
