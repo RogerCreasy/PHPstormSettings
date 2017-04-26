@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="back_compat" value="// Backwards compatibility&#10;   if ($this-&gt;phpver &lt; 7.0) {&#10;      $SELECTION$&#10;   }&#10;   else {&#10;       &#10;   }" description="backwards compatible &lt; PHP 7.0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
